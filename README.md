@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **u22508041@tuks.co.za**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
