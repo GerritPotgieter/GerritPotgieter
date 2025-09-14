@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gerrit!</h1>
 <h3 align="center">Computer Science Graduate Student</h3>
 
-- 🔭 I’m currently working on [MoodMix](https://github.com/COS301-SE-2024/MoodMix)
+- 🔭 I’m currently working on Private work projects and University submission
 
-- 🌱 I’m currently learning **Flutter, Android development and the Spotify SDK**
+- 🌱 I’m currently learning Python webscraping and networks
 
 - 📫 How to reach me **u22508041@tuks.co.za**
 
